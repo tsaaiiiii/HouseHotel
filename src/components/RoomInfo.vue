@@ -47,7 +47,7 @@
       >
         <div class="flex w-full flex-col items-center justify-between gap-[7.5px]">
           <img
-            :src="`./src/assets/images/amenities/icon_amenities_${item[0]}.svg`"
+            :src="`../amenities/icon_amenities_${item[0]}.svg`"
             alt=""
             class="h-10 w-10"
           />
