@@ -194,7 +194,7 @@
             >
               <div class="flex w-full flex-col items-center justify-between gap-1">
                 <img
-                  :src="`../assets/images/amenities/icon_amenities_${item[0]}.svg`"
+                  :src="`@/assets/images/amenities/icon_amenities_${item[0]}.svg`"
                   alt=""
                   class="h-8 w-8"
                 />
